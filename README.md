@@ -10,7 +10,7 @@
 
 Une chaîne de pizzerias souhaitait analyser ses ventes afin d'optimiser ses opérations, suivre les tendances clients et faciliter la prise de décision stratégique.
 
-**Dataset :** 84 600 lignes × 12 colonnes — `pizza_sales.csv`  
+**Dataset :** 48 620 lignes × 12 colonnes — `pizza_sales.csv`  
 **Période analysée :** Janvier 2015 – Décembre 2015  
 **Outil principal :** Power BI Desktop (Power Query + Data Modeling + DAX )
 
@@ -161,5 +161,6 @@ Dim_Date  ──(1)──▶ Fact_Sales ◀──(1)── Dim_Time
 ## 👤 Auteur
 
 **Asmae Janah** — Data Analyst
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/asmae-janah-6222572a3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanahAsmae)
